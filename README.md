@@ -2,6 +2,8 @@
 
 Webapplikation til kryptering og dekryptering af beskeder med Vigenère-chifferet, bygget med Streamlit.
 
+![Vigenère Chiffer Preview](123.gif)
+
 ## Funktioner
 
 - Krypter beskeder med brugerdefineret nøgle
@@ -10,7 +12,6 @@ Webapplikation til kryptering og dekryptering af beskeder med Vigenère-chiffere
 - Hurtig dekryptering direkte fra historik
 - Bevarer mellemrum og tegnsætning
 - Kompakt, optimeret kode
-- Professionelt dansk interface
 
 ## Installation
 
